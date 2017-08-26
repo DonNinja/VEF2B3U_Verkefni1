@@ -1,0 +1,9 @@
+body {
+	font-size: 2em;
+	justify-content: center;
+	width: 100%;
+}
+a {
+	border: 2px solid black;
+	padding: .25em;
+}
