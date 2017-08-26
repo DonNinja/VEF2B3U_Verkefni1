@@ -1,2 +1,2 @@
-var greeting = "Hello world";
+var greeting = "Halló heimur";
 document.write(greeting);
